@@ -33,9 +33,9 @@ This repo is more than a log — it’s the beginning of my journey. I hope to w
 
 ## My Interests
 
--Mathematics and Physics are the subjects I find most appealing to my intellect and conscience
--For me Mathematics alone is abstract and pure observation is messy but, combining them leads to the birth of the most elegant and descriptive subject-Physics
--Other than this I believe that Physics is the medium through which universe reveals itself and Mathematics is the language in which is does so 
+- Mathematics and Physics are the subjects I find most appealing to my intellect and conscience
+- For me Mathematics alone is abstract and pure observation is messy but, combining them leads to the birth of the most elegant and descriptive subject-    Physics
+- Other than this I believe that Physics is the medium through which universe reveals itself and Mathematics is the language in which is does so 
 
 ### 📅 Account of My Learnings 
 
