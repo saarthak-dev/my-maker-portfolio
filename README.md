@@ -3,15 +3,14 @@ This repository tracks my learning journey as I explore engineering concepts, bu
 
 ## About Me
 
-I’m Saarthak, a Class 10 student and a passionate learner of science and technology. I am working on learning and creating beginner-level projects involving Python, Arduino, and physics, and I’m on my way to understand how technology really works — not just use it.
-
+I’m Saarthak, a Class 10 student and a passionately curious learner of science and technology. I am working on learning and building projects to explore the working of universe and the secrets of cosmos
 ---
 
 ## Purpose of This Repository
 
 On May 29, 2025, I created this repository as my first step on GitHub — a space to:
 
-- Document what I learn each month  
+- Document what I learn 
 - Share the projects I build  
 - Track how my skills and thinking evolve over time  
 
@@ -21,24 +20,28 @@ On May 29, 2025, I created this repository as my first step on GitHub — a spac
 
 As a beginner on GitHub, I’ll be updating this repo regularly with:
 
-- 🚀 Monthly logs of my learning  
+- 🚀 logs of my achievements and milestones  
 - 🧠 Reflections on concepts I’ve understood  
-- 🔧 Code and circuits from my projects  
+- 🔧 Code from my projects  
 - 📈 Milestones I achieve along the way  
 
 ---
 
-## Long-Term Vision
+## Vision
 
-This repo is more than a log — it’s the beginning of my engineering journey. I hope to one day contribute to the world through meaningful, well-built technology.
+This repo is more than a log — it’s the beginning of my journey. I hope to work for the welfare of the **world** by meaningfully contributing to science and filling the gap in society and mindset of people.
 
+## My Interests
 
+-Mathematics and Physics are the subjects I find most appealing to my intellect and conscience
+-For me Mathematics alone is abstract and pure observation is messy but, combining them leads to the birth of the most elegant and descriptive subject-Physics
+-Other than this I believe that Physics is the medium through which universe reveals itself and Mathematics is the language in which is does so 
 
-### 📅 Account of My Learnings – May 2025
+### 📅 Account of My Learnings 
 
 - I am currently a Class 10 student under the CBSE curriculum.
 - Completed in-depth practice of foundational Class 10 mathematics chapters that are essential for understanding Class 11 concepts.
 - Started studying Class 11 mathematics in advance to strengthen my base for competitive exams and further studies.
-- Explored the **Theory of Relativity**, focusing on conceptual and theoretical understanding.
+- Explored the **Theory of Relativity**, focusing on conceptual and theoretical understanding(obviously not on the Mathematical part).
   - Read about the contributions of **Albert Einstein** and **Roger Penrose**, in the context of black holes and spacetime.
-- Began the **CS50’s Introduction to Python** course by Harvard University.
+- Began the **CS50’s Introduction to Python** course by Harvard University and **MIT OpenCourseWare: Single Variable Calculus (18.01)** course by MIT university .
